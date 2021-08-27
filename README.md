@@ -1,2 +1,2 @@
 # django-blog
-A simple django + bootstrap blog application, built as a learning project. Credit to [Corey Schafer](https://github.com/CoreyMSchafer) and his educational [YouTube Channel](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)'s videos & tutorials, as well as many [code snippets](https://github.com/CoreyMSchafer/code_snippets). 
+A simple django + bootstrap blog application, built as a learning project. Credit to [Corey Schafer](https://github.com/CoreyMSchafer) and his educational [YouTube Channel](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)'s videos & tutorials, as well as many [code snippets](https://github.com/CoreyMSchafer/code_snippets).
