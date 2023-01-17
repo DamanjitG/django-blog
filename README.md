@@ -5,4 +5,4 @@ Note that the code is not functional just by cloning this repository - some sens
 
 The blog is currently deployed via Heroku: https://dgill-django-blog.herokuapp.com/.
 
-Unfortunately, due to restrictions regarding users uploading content to Heroku apps, the profile picture feature is not fully functional on the deployed version.
+Unfortunately, due to the recent removal of Heroku's free tier, the app is currently not functioning.
